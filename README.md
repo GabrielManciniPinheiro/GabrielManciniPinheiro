@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a software engineer focused on full-stack development, passionate about building scalable, modern, and well-architected solutions. I've worked on high-impact projects in Brazil, using technologies such as TypeScript, React and React Native, Next.js, Node.js, Python, Java, SpringBoot, PostgreSQL microservices, MongoDB, and more.<br><br>I wrote my first lines of code at age 15, when I became curious about how web applications and websites were created. After much research, I was finally able to create my own websites and software - and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.<br><br>Since then, I've remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.</p>
+<p align="left">I'm a software engineer focused on full-stack development, passionate about building scalable, modern, and well-architected solutions. I've worked on high-impact projects in Brazil, using technologies such as TypeScript, React and React Native, Next.js, Node.js, Python, Java, SpringBoot, microservices, PostgreSQL, MongoDB, and more.<br><br>I wrote my first lines of code at age 15, when I became curious about how web applications and websites were created. After much research, I was finally able to create my own websites and software - and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.<br><br>Since then, I've remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.</p>
 
 ###
 
